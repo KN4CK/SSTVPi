@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# This is a program to do a SSTV beacon transmission for W8DC Field Day
+# This is a program to do a SSTV beacon transmission for Field Day
 #
 # This is a decent modification of Don Hoover WS4E script for W4CN Field Day
 #   that was originally found at https://gist.github.com/nixfu/5736852 (dead link)
